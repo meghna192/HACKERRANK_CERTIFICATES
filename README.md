@@ -1,4 +1,0 @@
-CERTIFICATES
-
-
-Java (Basic) Certificate 
